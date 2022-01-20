@@ -1,0 +1,19 @@
+# Python specific
+*.pyc
+
+# Test files
+*cache*
+*coverage*
+
+# Building files
+build*
+dist*
+sportsipy.egg-info*
+
+# VirtualEnv
+bin/*
+include/*
+lib/*
+man/*
+pip-selfcheck.json
+env/*
